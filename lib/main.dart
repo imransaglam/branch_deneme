@@ -52,6 +52,7 @@ class _MyHomePageState extends State<MyHomePage> {
     int _develop = 0;
     int _bug = 0;
  int _minibug1 = 0;
+  int _minibug2 = 0;
   void _incrementCounter() {
     setState(() {
       // This call to setState tells the Flutter framework that something has
